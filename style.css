@@ -1,0 +1,10 @@
+*{
+    font-family: 'Poppins';
+}
+
+.height-header{
+    height: 60px;
+}
+.header-padding{
+    padding: 20px 100px;
+}
